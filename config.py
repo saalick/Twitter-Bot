@@ -1,5 +1,5 @@
-consumer_key = "373t48wajgfuy"
-consumer_secret = "3uaegjgraewigah"
+consumer_key = ""
+consumer_secret = ""
 
-access_token = "gidgzsiufgdsjHfiewhyIO"
-access_token_secret = "GSZUGRWYHSEJgweiH"
+access_token = ""
+access_token_secret = ""
